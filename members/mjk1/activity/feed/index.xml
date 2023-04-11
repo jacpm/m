@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+		>
+
+<channel>
+	<title>Jac-p-online | Melle | Activity</title>
+	<link>./../index.html</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<description>Activity feed for Melle.</description>
+	<lastBuildDate>Tue, 11 Apr 2023 13:04:38 +0000</lastBuildDate>
+	<generator>https://buddypress.org/?v=2.3.1.1</generator>
+	<language>nl</language>
+	<ttl>30</ttl>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>2</sy:updateFrequency>
+		
+								<item>
+				<guid isPermaLink="false">c68c65b47b78b45f2eb472c1b63091f1</guid>
+				<title>Melle updated their profile</title>
+				<link>./../../../../news-feed/p/3/index.html</link>
+				<pubDate>Tue, 11 Apr 2023 12:01:54 +0000</pubDate>
+
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+					<item>
+				<guid isPermaLink="false">0b960405ada5a34557431fe65332f071</guid>
+				<title>Melle posted an update: Welkom,</title>
+				<link>./../../../../news-feed/p/2/index.html</link>
+				<pubDate>Mon, 10 Apr 2023 21:02:13 +0000</pubDate>
+
+									<content:encoded><![CDATA[<p>Welkom,</p>
+]]></content:encoded>
+				
+									<slash:comments>0</slash:comments>
+				
+							</item>
+		
+	</channel>
+</rss>
+		
